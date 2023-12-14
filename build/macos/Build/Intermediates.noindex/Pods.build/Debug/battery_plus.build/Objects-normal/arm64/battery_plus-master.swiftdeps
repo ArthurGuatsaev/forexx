@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "0890ea075976cb9f11e8261bf6d2b87f5331f2d10615d19f4fc79615a4a6a49d"
+build_start_time: [1702510433, 718479000]
+build_end_time: [1702510441, 443958000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/battery_plus-4.1.0/macos/Classes/BatteryPlusChargingHandler.swift": [1699800971, 713066147]
+  "/Users/diana/.pub-cache/hosted/pub.dev/battery_plus-4.1.0/macos/Classes/BatteryPlusMacosPlugin.swift": [1699800971, 713332353]

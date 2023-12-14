@@ -1,0 +1,17 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/in_app_review.framework/Versions/A/in_app_review'
+swift-abi-version: 7
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ '_$s13in_app_review17InAppReviewPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctF', 
+                       '_$s13in_app_review17InAppReviewPluginC6handle_6resultySo17FlutterMethodCallC_yypSgctFTq', 
+                       '_$s13in_app_review17InAppReviewPluginC8register4withySo07FlutterG9Registrar_p_tFZ', 
+                       '_$s13in_app_review17InAppReviewPluginCACycfC', '_$s13in_app_review17InAppReviewPluginCACycfc', 
+                       '_$s13in_app_review17InAppReviewPluginCMa', '_$s13in_app_review17InAppReviewPluginCMn', 
+                       '_$s13in_app_review17InAppReviewPluginCN', '_$s13in_app_review17InAppReviewPluginCfD', 
+                       _in_app_reviewVersionNumber, _in_app_reviewVersionString ]
+    objc-classes:    [ PodsDummy_in_app_review, _TtC13in_app_review17InAppReviewPlugin ]
+...

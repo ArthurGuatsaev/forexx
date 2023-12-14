@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "76fc13df384b80b9ebdbcf5241a20ccfbd02e3e1fb93eec3dd4cc740241a1c5c"
+build_start_time: [1702510447, 451042000]
+build_end_time: [1702510453, 563662000]
+inputs:
+  "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/Codable.swift": [1702510423, 377631575]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/FirebaseRemoteConfigValueDecoderHelper.swift"
+  : [1702510423, 377444700]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigProperty.swift"
+  : [1702510423, 378661948]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/PropertyWrapper/RemoteConfigValueObservable.swift"
+  : [1702510423, 378446407]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/SPMSwiftHeaderWorkaround.swift"
+  : [1702510423, 377824741]
+  "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Swift/Value.swift": [1702510423, 378875614]

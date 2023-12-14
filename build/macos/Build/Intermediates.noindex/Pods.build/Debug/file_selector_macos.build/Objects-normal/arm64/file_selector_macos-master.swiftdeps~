@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7cbce56c2364721a64d1f5abea93b5797d9f744f66bda28b26bce56c1b1a4d71"
+build_start_time: [1702510431, 951227000]
+build_end_time: [1702510431, 977305000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/FileSelectorPlugin.swift": !private [1699311355, 831215499]
+  "/Users/diana/.pub-cache/hosted/pub.dev/file_selector_macos-0.9.3+3/macos/Classes/messages.g.swift": !private [1699311355, 831416082]

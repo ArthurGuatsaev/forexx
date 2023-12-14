@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "adf762748ea46d63397777165427eb7645f85d1e3928a001a0fc6c02a5daa424"
+build_start_time: [1702510430, 962512000]
+build_end_time: [1702510430, 987744000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/isar_flutter_libs-3.1.0+1/macos/Classes/IsarFlutterLibsPlugin.swift": !private [1698524758, 834360365]

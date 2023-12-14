@@ -1,0 +1,1 @@
+ /Users/diana/development/flutter\ project/forex_290/.dart_tool/flutter_build/dbfb02c5959efe738defbeae8404b0b2/native_assets.yaml: 

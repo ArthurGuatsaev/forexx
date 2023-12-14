@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "9c9e7221edf7020daff4d6876fe5230940b318f00781a91b1c040e4ac70979d9"
+build_start_time: [1702510430, 357561000]
+build_end_time: [1702510440, 145843000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/share_plus-7.2.1/macos/Classes/SharePlusMacosPlugin.swift": [1699310597, 305249385]

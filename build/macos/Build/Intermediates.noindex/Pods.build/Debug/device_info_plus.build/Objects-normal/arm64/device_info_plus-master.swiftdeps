@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f1f72479d026fc5d1580f901a0802bbcaa633f85819772a8d0445e488c5286e0"
+build_start_time: [1702510432, 17486000]
+build_end_time: [1702510441, 368632000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/device_info_plus-9.1.1/macos/Classes/CwlSysctl.swift": [1700931415, 175909828]
+  "/Users/diana/.pub-cache/hosted/pub.dev/device_info_plus-9.1.1/macos/Classes/DeviceInfoPlusMacosPlugin.swift": [1700931415, 176108444]
+  "/Users/diana/.pub-cache/hosted/pub.dev/device_info_plus-9.1.1/macos/Classes/SystemUUID.swift": [1700931415, 176322227]

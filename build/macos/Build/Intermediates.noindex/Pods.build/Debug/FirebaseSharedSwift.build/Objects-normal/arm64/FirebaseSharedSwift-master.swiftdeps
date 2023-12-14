@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b7bf06874b942cae82dc2b69a5ca15c15baf88ab4f66d6eb19b06710cdf4d627"
+build_start_time: [1702510433, 720175000]
+build_end_time: [1702510443, 893809000]
+inputs:
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/FirebaseRemoteConfigValueDecoding.swift"
+  : [1702510423, 397593122]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseSharedSwift/FirebaseSharedSwift/Sources/third_party/FirebaseDataEncoder/FirebaseDataEncoder.swift"
+  : [1702510423, 397296748]

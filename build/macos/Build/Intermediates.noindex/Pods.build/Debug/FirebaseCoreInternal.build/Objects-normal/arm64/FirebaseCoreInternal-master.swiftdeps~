@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "7a7b6ebfcb1a5cedfe60d68a22deb56ad46f08b2e8f8ab4afebe2fb350b448bf"
+build_start_time: [1702510433, 723721000]
+build_end_time: [1702510433, 757439000]
+inputs:
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1702510423, 303332500]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1702510423, 304311748]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1702510423, 304737581]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1702510423, 305058164]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1702510423, 305373746]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1702510423, 305713787]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1702510423, 303569166]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1702510423, 303088875]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1702510423, 305868954]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1702510423, 305533996]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1702510423, 304020707]
+  ? "/Users/diana/development/flutter project/forex_290/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1702510423, 304490289]

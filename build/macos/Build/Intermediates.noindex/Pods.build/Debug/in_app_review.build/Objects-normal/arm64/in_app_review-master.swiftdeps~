@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c519904a3d3c4435fa9688b69011a5cb4eafec6c95bdae5203aff13a3d8b74b9"
+build_start_time: [1702510431, 28334000]
+build_end_time: [1702510431, 53665000]
+inputs:
+  "/Users/diana/.pub-cache/hosted/pub.dev/in_app_review-2.0.8/macos/Classes/InAppReviewPlugin.swift": !private [1699267349, 546682473]
